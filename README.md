@@ -1,4 +1,5 @@
 # angular-bookmark
+# This software creates bookmarks of websites using angularJS
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.14.0.
